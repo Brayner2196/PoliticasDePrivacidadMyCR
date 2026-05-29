@@ -16,7 +16,7 @@ Al usar la Aplicación, aceptas las prácticas descritas en este documento.
 
 El responsable del tratamiento de datos es el **administrador del conjunto residencial** (Tenant Admin) que contrate el servicio. Flutter Residential actúa como encargado del tratamiento en nombre de dicho administrador.
 
-Para consultas sobre privacidad, comunícate con el administrador de tu conjunto o escríbenos a: **soporte@flutterresidential.com**
+Para consultas sobre privacidad, comunícate con el administrador de tu conjunto o escríbenos a: **soporte@mycrapp.com**
 
 ---
 
